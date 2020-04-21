@@ -2,4 +2,6 @@
 
 An existing PDF is loaded and encrypted using the current date
 
-Date = 21/04/2020
+Download jars: https://pdfbox.apache.org/download.cgi
+
+Unlock the file by inserting the DATE = 21/04/2020
